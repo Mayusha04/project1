@@ -102,7 +102,7 @@ aside#sidebar{
  
 footer{
     padding:20px;
-    margin-top: 150px;
+    margin-top: 300px;
     color: rgb(67, 212, 86);
     background-color: rgb(56, 149, 224);
     text-align: center;
@@ -110,7 +110,7 @@ footer{
 
 form {
     height: 290px;
-    width: 1000px;
+    width: 1366px;
     background-color: rgb(225, 218, 233);
     padding: 10px;
     border-radius: 10px;
