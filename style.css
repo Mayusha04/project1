@@ -140,7 +140,6 @@ aside#sidebar{
   /*  after rows */ 
   .row:after {
     content: "";
-    display: inline-block;
     clear: both;
   }
   
